@@ -1,8 +1,9 @@
 body {
-  background-color: #000000; /* Gris clair */
+  background-color: #000000; 
+  /* BIEN NOIR MORRAY */
   font-family: sans-serif;
   margin: 0;
-  color: white;
+    color: white;
   line-height: 100px;
   margin: 0;
   div {
@@ -12,5 +13,12 @@ body {
   font-family: sans-serif;
   margin: 0;
   color: rgb(0, 0, 0);
+}
+/*  Classe + ID */
+#p-custom-id{
+    color:aqua
+}
+.h1-custom{
+    color:lime
 }
 }
